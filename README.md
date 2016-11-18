@@ -47,6 +47,10 @@ git_remote_project[2]='origin'
 git_remote_project[3]='upstream'
 ```
 
+### Screenshot
+---------------------
+![sync_git](https://cloud.githubusercontent.com/assets/1259324/20429429/884ffb18-adc9-11e6-8af7-8cbcd6509aa7.png)
+
 #### Contact
 ---------------------------------
 Follow me @[rainy_sia](https://twitter.com/rainy_sia) in twitter, [@rainysia](http://weibo.com/rainysia) in weibo, mail me at rainysia#gmail.com 
